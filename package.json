@@ -1,0 +1,22 @@
+{
+  "name": "cl-search",
+  "version": "1.0.0",
+  "description": "lj eats beef jerky by the seashore",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mpgoulet/cl-search.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mpgoulet/cl-search/issues"
+  },
+  "homepage": "https://github.com/mpgoulet/cl-search#readme",
+  "dependencies": {
+    "node-craigslist": "^1.2.2"
+  }
+}
