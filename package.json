@@ -17,6 +17,9 @@
   },
   "homepage": "https://github.com/mpgoulet/cl-search#readme",
   "dependencies": {
-    "node-craigslist": "^1.2.2"
+    "mongodb": "^3.1.1",
+    "mongoose": "^5.2.7",
+    "node-craigslist": "^1.2.2",
+    "wait-sync": "^1.0.1"
   }
 }
